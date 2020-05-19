@@ -1,13 +1,13 @@
-﻿******** G00362383 - Michael Mulholland ********
-***** Data Structures & Algorithms Project *****
+# **Data Structures & Algorithms Project**
+## **G00362383 - Michael Mulholland**
 
-*** Word Cloud Generator ***
+## **Word Cloud Generator**
 
-*** Description ***
+## **Description**
 A Java application that can parse a file or a URL to generate a PNG file with a word-cloud
 displaying the most prominent words in decreasing font size, style and colour.
 
-*** Features ***
+## **Features**
 The menu will be displayed and this will offer the user some options on how they want the program to operate.
 Menu options include:
 
@@ -26,11 +26,6 @@ When the user answers these questions and hits enter, the program will run. The 
 with the max number of words that the user wanted to display, the program will then display the most prominent words 
 in decreasing font size, style and colour.
 
-******************** SOMETHING ABOUT THE HASHMAP, HASHSET AND PRIORITYQUE ********************
-
-*** Ignore Words File ***
+## **Ignore Words File**
 I have added a few of my own words to *ignorewords.txt* and it should be put same directory as the executable when running the program.
 The ignorewords.txt will contain a list of words that will not appear in the PNG image.
-
-
-*** Image Sample ***
